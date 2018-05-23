@@ -16,10 +16,22 @@ public class Test
         
         Person p= new Person ("Mary", 4);
         System.out.println (p.getName ());
-	// adding a print statement for age
-	System.out.println (p.getAge ());
 
-	// Trying a print statement
-	System.out.println ("Fadia M");
+System.out.println ("Captain Majid was here!");
+
+	
+System.out.println("Mahmood");
+
+	
+System.out.println("Majd sami");
+        
+System.out.println ("kahled eid");
+        
+System.out.println("Basheer Shehabi Typed This!");
+        
+System.out.println("Captain America was here!");
+    
+System.out.println ("Fadia M");
+
     }
 }
